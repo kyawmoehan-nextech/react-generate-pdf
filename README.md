@@ -1,3 +1,10 @@
+# React PDF Generator
+
+This project use jspdf and html2canvas to convert
+
+- html -> canvas -> image -> pdf
+- html -> pdf
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
